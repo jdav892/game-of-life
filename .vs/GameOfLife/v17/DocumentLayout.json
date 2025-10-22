@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "GameOfLife\\grid.hpp",
               "ToolTip": "C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\grid.hpp",
               "RelativeToolTip": "GameOfLife\\grid.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-10-22T08:35:13.562Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "GameOfLife\\grid.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-22T08:35:09.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T08:35:09.142Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "GameOfLife\\GameOfLife.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-22T01:15:18.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T01:15:18.521Z"
             }
           ]
         }
