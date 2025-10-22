@@ -14,6 +14,7 @@ int main()
   InitWindow(WINDOW_WIDTH, WINDOW_HEIGHT, "Game of Life");
   SetTargetFPS(FPS);
   Grid grid{WINDOW_WIDTH, WINDOW_HEIGHT, CELL_SIZE};
+  grid.SetValue(0, 0, 1);
 
   // Simulation Loop
   while (!WindowShouldClose()) {
