@@ -1,18 +1,20 @@
 #include <iostream>
 #include <raylib.h>
+#include "grid.hpp"
 
 int main() 
 {
 
   Color GREY = {29, 29, 29, 255};
-  const int screenWidth = 750;
-  const int screenHeight = 750;
+  const int WINDOW_WIDTH = 750;
+  const int WINDOW_HEIGHT = 750;
+  const int CELL_SIZE = 25;
   int FPS = 12;
 
-  InitWindow(screenWidth, screenHeight, "Game of Life");
-
+  InitWindow(WINDOW_WIDTH, WINDOW_HEIGHT, "Game of Life");
   SetTargetFPS(FPS);
-  
+  Grid grid{WINDOW_WIDTH, WINDOW_HEIGHT, CELL_SIZE};
+
   // Simulation Loop
   while (!WindowShouldClose()) {
 
@@ -27,6 +29,7 @@ int main()
     
     BeginDrawing();
     ClearBackground(GREY);
+    grid.Draw();
     EndDrawing();
   }
 
