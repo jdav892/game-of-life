@@ -1,7 +1,13 @@
-Underpopulation: A live cell with fewer than two live neighbors dies.
+Cells:
+  Underpopulation: A live cell with fewer than two live neighbors dies.
 
-Stasis: A live cell with two or three live neighbors lives on to the next generation.
+  Stasis: A live cell with two or three live neighbors lives on to the next generation.
 
-Overpopulation: A live cell with more than three live neighbors dies.
+  Overpopulation: A live cell with more than three live neighbors dies.
 
-Reproduction: A dead cell with exactly three live neighbors becomes a live cell.
+  Reproduction: A dead cell with exactly three live neighbors becomes a live cell.
+
+
+Toriodal Grid:
+  -new_row = (row + offset + totalRow) mod totalRows
+  -new_column = (column + offset + totalColumns) mod totalColumns
