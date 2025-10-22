@@ -11,3 +11,8 @@ Cells:
 Toriodal Grid:
   -new_row = (row + offset + totalRow) mod totalRows
   -new_column = (column + offset + totalColumns) mod totalColumns
+
+
+Law #1: If a cell is alive, it dies when it has fewer than 2 or more than 3 live neighbors, else it stays alive.
+
+Law #2: If a cell is dead, it can come alive only if it has exactly 3 live neighbors, else it stays dead.

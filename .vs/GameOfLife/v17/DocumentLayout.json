@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{EFBC92F2-70DC-4D5E-8CE6-61B31D5BC46F}|GameOfLife\\GameOfLife.vcxproj|solutionrelative:GameOfLife\\simulation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFBC92F2-70DC-4D5E-8CE6-61B31D5BC46F}|GameOfLife\\GameOfLife.vcxproj|C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\grid.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EFBC92F2-70DC-4D5E-8CE6-61B31D5BC46F}|GameOfLife\\GameOfLife.vcxproj|solutionrelative:GameOfLife\\grid.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFBC92F2-70DC-4D5E-8CE6-61B31D5BC46F}|GameOfLife\\GameOfLife.vcxproj|C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EFBC92F2-70DC-4D5E-8CE6-61B31D5BC46F}|GameOfLife\\GameOfLife.vcxproj|solutionrelative:GameOfLife\\grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EFBC92F2-70DC-4D5E-8CE6-61B31D5BC46F}|GameOfLife\\GameOfLife.vcxproj|C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\simulation.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFBC92F2-70DC-4D5E-8CE6-61B31D5BC46F}|GameOfLife\\GameOfLife.vcxproj|solutionrelative:GameOfLife\\simulation.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFBC92F2-70DC-4D5E-8CE6-61B31D5BC46F}|GameOfLife\\GameOfLife.vcxproj|C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\GameOfLife.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EFBC92F2-70DC-4D5E-8CE6-61B31D5BC46F}|GameOfLife\\GameOfLife.vcxproj|solutionrelative:GameOfLife\\GameOfLife.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFBC92F2-70DC-4D5E-8CE6-61B31D5BC46F}|GameOfLife\\GameOfLife.vcxproj|C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\simulation.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EFBC92F2-70DC-4D5E-8CE6-61B31D5BC46F}|GameOfLife\\GameOfLife.vcxproj|solutionrelative:GameOfLife\\simulation.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EFBC92F2-70DC-4D5E-8CE6-61B31D5BC46F}|GameOfLife\\GameOfLife.vcxproj|C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFBC92F2-70DC-4D5E-8CE6-61B31D5BC46F}|GameOfLife\\GameOfLife.vcxproj|solutionrelative:GameOfLife\\grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBC92F2-70DC-4D5E-8CE6-61B31D5BC46F}|GameOfLife\\GameOfLife.vcxproj|C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\grid.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFBC92F2-70DC-4D5E-8CE6-61B31D5BC46F}|GameOfLife\\GameOfLife.vcxproj|solutionrelative:GameOfLife\\grid.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +42,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "simulation.cpp",
+              "DocumentMoniker": "C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\simulation.cpp",
+              "RelativeDocumentMoniker": "GameOfLife\\simulation.cpp",
+              "ToolTip": "C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\simulation.cpp",
+              "RelativeToolTip": "GameOfLife\\simulation.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-22T09:33:32.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "grid.hpp",
               "DocumentMoniker": "C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\grid.hpp",
               "RelativeDocumentMoniker": "GameOfLife\\grid.hpp",
@@ -50,57 +63,46 @@
               "RelativeToolTip": "GameOfLife\\grid.hpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAiwBMAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-10-22T08:35:13.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T08:35:13.562Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "simulation.cpp",
-              "DocumentMoniker": "C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\simulation.cpp",
-              "RelativeDocumentMoniker": "GameOfLife\\simulation.cpp",
-              "ToolTip": "C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\simulation.cpp",
-              "RelativeToolTip": "GameOfLife\\simulation.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-22T09:33:32.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "grid.cpp",
               "DocumentMoniker": "C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\grid.cpp",
               "RelativeDocumentMoniker": "GameOfLife\\grid.cpp",
               "ToolTip": "C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\grid.cpp",
               "RelativeToolTip": "GameOfLife\\grid.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-22T08:35:09.142Z"
+              "WhenOpened": "2025-10-22T08:35:09.142Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "GameOfLife.cpp",
               "DocumentMoniker": "C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\GameOfLife.cpp",
               "RelativeDocumentMoniker": "GameOfLife\\GameOfLife.cpp",
               "ToolTip": "C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\GameOfLife.cpp",
               "RelativeToolTip": "GameOfLife\\GameOfLife.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-22T01:15:18.521Z"
+              "WhenOpened": "2025-10-22T01:15:18.521Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "simulation.hpp",
               "DocumentMoniker": "C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\simulation.hpp",
               "RelativeDocumentMoniker": "GameOfLife\\simulation.hpp",
               "ToolTip": "C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\simulation.hpp",
               "RelativeToolTip": "GameOfLife\\simulation.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-10-22T09:01:53.901Z"
+              "WhenOpened": "2025-10-22T09:01:53.901Z",
+              "EditorCaption": ""
             }
           ]
         }
