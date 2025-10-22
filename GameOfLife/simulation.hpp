@@ -9,6 +9,7 @@ public:
     };
     void Draw();
     void SetCellValue(int row, int column, int value);
+    int CountLiveNeighbors(int row, int column);
 private:
     Grid grid;
 };
