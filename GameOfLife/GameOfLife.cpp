@@ -27,10 +27,32 @@ int main()
       simulation.Start();
       SetWindowTitle("Active");
     }
-    else if(IsKeyPressed(KEY_SPACE))
+    
+    if(IsKeyPressed(KEY_SPACE))
     {
       simulation.Stop();
       SetWindowTitle("Paused");
+    }
+    
+    if(IsKeyPressed(KEY_F))
+    {
+      FPS += 4;
+      SetTargetFPS(FPS);
+    }
+
+    if(IsKeyPressed(KEY_S))
+    {
+      if(FPS > 9)
+      {
+        FPS -= 4;
+        SetTargetFPS(FPS);
+      }
+
+      if(FPS < 9 && FPS >= 4)
+      {
+        FPS -= 1;
+        SetTargetFPS(FPS);
+      }
     }
 
     // Updating State

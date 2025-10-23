@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,6 +42,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameOfLife.cpp",
+              "DocumentMoniker": "C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\GameOfLife.cpp",
+              "RelativeDocumentMoniker": "GameOfLife\\GameOfLife.cpp",
+              "ToolTip": "C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\GameOfLife.cpp",
+              "RelativeToolTip": "GameOfLife\\GameOfLife.cpp",
+              "ViewState": "AgIAACYAAAAAAAAAAAAiwDQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-22T01:15:18.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "simulation.cpp",
               "DocumentMoniker": "C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\simulation.cpp",
@@ -50,8 +63,7 @@
               "RelativeToolTip": "GameOfLife\\simulation.cpp",
               "ViewState": "AgIAADkAAAAAAAAAAAAAACgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-22T09:33:32.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T09:33:32.028Z"
             },
             {
               "$type": "Document",
@@ -63,8 +75,7 @@
               "RelativeToolTip": "GameOfLife\\grid.hpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAiwBMAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-10-22T08:35:13.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T08:35:13.562Z"
             },
             {
               "$type": "Document",
@@ -76,21 +87,7 @@
               "RelativeToolTip": "GameOfLife\\grid.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-22T08:35:09.142Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GameOfLife.cpp",
-              "DocumentMoniker": "C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\GameOfLife.cpp",
-              "RelativeDocumentMoniker": "GameOfLife\\GameOfLife.cpp",
-              "ToolTip": "C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\GameOfLife.cpp",
-              "RelativeToolTip": "GameOfLife\\GameOfLife.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-22T01:15:18.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T08:35:09.142Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "GameOfLife\\simulation.hpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-10-22T09:01:53.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T09:01:53.901Z"
             }
           ]
         }
