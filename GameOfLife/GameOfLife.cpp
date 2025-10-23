@@ -6,9 +6,10 @@ int main()
 {
 
   Color GREY = {29, 29, 29, 255};
-  const int WINDOW_WIDTH = 750;
+  // adjust to change resolution/scale of game
+  const int WINDOW_WIDTH = 1400;
   const int WINDOW_HEIGHT = 750;
-  const int CELL_SIZE = 25;
+  const int CELL_SIZE = 4;
   int FPS = 12;
 
   InitWindow(WINDOW_WIDTH, WINDOW_HEIGHT, "Game of Life");
@@ -18,12 +19,20 @@ int main()
   std::cout << simulation.CountLiveNeighbors(5, 29) << std::endl;
 
   // Simulation Loop
-  while (!WindowShouldClose()) {
-
-
-
+  while (!WindowShouldClose()) 
+  {
     // Event Handling
-    
+    if(IsKeyPressed(KEY_ENTER))
+    {
+      simulation.Start();
+      SetWindowTitle("Active");
+    }
+    else if(IsKeyPressed(KEY_SPACE))
+    {
+      simulation.Stop();
+      SetWindowTitle("Paused");
+    }
+
     // Updating State
     simulation.Update();    
     // Drawing
