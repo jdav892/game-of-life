@@ -1,2 +1,5 @@
 ﻿  GameOfLife.cpp
+  grid.cpp
+  simulation.cpp
+  Generating Code...
   GameOfLife.vcxproj -> C:\Users\jay-5\source\repos\GameOfLife\x64\Debug\GameOfLife.exe

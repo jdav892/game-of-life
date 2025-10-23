@@ -55,6 +55,16 @@ int main()
       }
     }
 
+    if(IsKeyPressed(KEY_R))
+    {
+      simulation.CreateRandomState();
+    }
+
+    if(IsKeyPressed(KEY_C))
+    {
+      simulation.ClearGrid();
+    }
+
     // Updating State
     simulation.Update();    
     // Drawing
