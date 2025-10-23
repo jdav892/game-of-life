@@ -1,5 +1,4 @@
-﻿  GameOfLife.cpp
-  grid.cpp
-  simulation.cpp
-  Generating Code...
+﻿  main.cpp
+C:\Users\jay-5\source\repos\GameOfLife\GameOfLife\main.cpp(27,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\jay-5\source\repos\GameOfLife\GameOfLife\main.cpp(28,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
   GameOfLife.vcxproj -> C:\Users\jay-5\source\repos\GameOfLife\x64\Debug\GameOfLife.exe

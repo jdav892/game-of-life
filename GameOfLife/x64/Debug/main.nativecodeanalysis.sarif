@@ -1,0 +1,59 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "MSVC Code Analysis",
+          "version": "14.44.35217.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/jay-5/source/repos/gameoflife/gameoflife/main.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "8639b01dbdce363a8f8353a132b9a6976ece83bdf326295e36c3fda4aaff4c73"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/raylib/raylib/out/build/x64-debug/raylib/include/raylib.h"
+          },
+          "hashes": {
+            "sha-256": "5181a1e739762e32cb851ee4dfecd8b51e4861290c38c312c188284677c58bcb"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jay-5/source/repos/gameoflife/gameoflife/simulation.hpp"
+          },
+          "hashes": {
+            "sha-256": "a44348137adc3d6e0f12985ebfe2f3830f2985757d05e884e26adeddc035ce16"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jay-5/source/repos/gameoflife/gameoflife/grid.hpp"
+          },
+          "hashes": {
+            "sha-256": "18ffca9142b7651535c8c8f0c51960b0da8286c9f5dc0b0f0b44720e24a4532e"
+          }
+        }
+      ]
+    }
+  ]
+}

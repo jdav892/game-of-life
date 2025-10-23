@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\jay-5\\source\\repos\\GameOfLife\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFBC92F2-70DC-4D5E-8CE6-61B31D5BC46F}|GameOfLife\\GameOfLife.vcxproj|C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\simulation.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EFBC92F2-70DC-4D5E-8CE6-61B31D5BC46F}|GameOfLife\\GameOfLife.vcxproj|solutionrelative:GameOfLife\\simulation.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EFBC92F2-70DC-4D5E-8CE6-61B31D5BC46F}|GameOfLife\\GameOfLife.vcxproj|C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFBC92F2-70DC-4D5E-8CE6-61B31D5BC46F}|GameOfLife\\GameOfLife.vcxproj|solutionrelative:GameOfLife\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBC92F2-70DC-4D5E-8CE6-61B31D5BC46F}|GameOfLife\\GameOfLife.vcxproj|C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\simulation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFBC92F2-70DC-4D5E-8CE6-61B31D5BC46F}|GameOfLife\\GameOfLife.vcxproj|solutionrelative:GameOfLife\\simulation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFBC92F2-70DC-4D5E-8CE6-61B31D5BC46F}|GameOfLife\\GameOfLife.vcxproj|C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\grid.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EFBC92F2-70DC-4D5E-8CE6-61B31D5BC46F}|GameOfLife\\GameOfLife.vcxproj|solutionrelative:GameOfLife\\grid.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFBC92F2-70DC-4D5E-8CE6-61B31D5BC46F}|GameOfLife\\GameOfLife.vcxproj|C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\GameOfLife.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EFBC92F2-70DC-4D5E-8CE6-61B31D5BC46F}|GameOfLife\\GameOfLife.vcxproj|solutionrelative:GameOfLife\\GameOfLife.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EFBC92F2-70DC-4D5E-8CE6-61B31D5BC46F}|GameOfLife\\GameOfLife.vcxproj|C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\simulation.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFBC92F2-70DC-4D5E-8CE6-61B31D5BC46F}|GameOfLife\\GameOfLife.vcxproj|solutionrelative:GameOfLife\\simulation.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFBC92F2-70DC-4D5E-8CE6-61B31D5BC46F}|GameOfLife\\GameOfLife.vcxproj|C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EFBC92F2-70DC-4D5E-8CE6-61B31D5BC46F}|GameOfLife\\GameOfLife.vcxproj|solutionrelative:GameOfLife\\grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFBC92F2-70DC-4D5E-8CE6-61B31D5BC46F}|GameOfLife\\GameOfLife.vcxproj|C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\simulation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EFBC92F2-70DC-4D5E-8CE6-61B31D5BC46F}|GameOfLife\\GameOfLife.vcxproj|solutionrelative:GameOfLife\\simulation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,54 +30,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\main.cpp",
+              "RelativeDocumentMoniker": "GameOfLife\\main.cpp",
+              "ToolTip": "C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\main.cpp",
+              "RelativeToolTip": "GameOfLife\\main.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-23T07:19:24.674Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GameOfLife.cpp",
-              "DocumentMoniker": "C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\GameOfLife.cpp",
-              "RelativeDocumentMoniker": "GameOfLife\\GameOfLife.cpp",
-              "ToolTip": "C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\GameOfLife.cpp",
-              "RelativeToolTip": "GameOfLife\\GameOfLife.cpp",
-              "ViewState": "AgIAACkAAAAAAAAAAAAiwD8AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-22T01:15:18.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "simulation.cpp",
-              "DocumentMoniker": "C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\simulation.cpp",
-              "RelativeDocumentMoniker": "GameOfLife\\simulation.cpp",
-              "ToolTip": "C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\simulation.cpp",
-              "RelativeToolTip": "GameOfLife\\simulation.cpp",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAEAAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-22T09:33:32.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "grid.hpp",
               "DocumentMoniker": "C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\grid.hpp",
               "RelativeDocumentMoniker": "GameOfLife\\grid.hpp",
               "ToolTip": "C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\grid.hpp",
               "RelativeToolTip": "GameOfLife\\grid.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-10-22T08:35:13.562Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "simulation.cpp",
+              "DocumentMoniker": "C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\simulation.cpp",
+              "RelativeDocumentMoniker": "GameOfLife\\simulation.cpp",
+              "ToolTip": "C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\simulation.cpp",
+              "RelativeToolTip": "GameOfLife\\simulation.cpp",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAEAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-22T09:33:32.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "grid.cpp",
               "DocumentMoniker": "C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\grid.cpp",
               "RelativeDocumentMoniker": "GameOfLife\\grid.cpp",
@@ -90,20 +94,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "simulation.hpp",
               "DocumentMoniker": "C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\simulation.hpp",
               "RelativeDocumentMoniker": "GameOfLife\\simulation.hpp",
               "ToolTip": "C:\\Users\\jay-5\\source\\repos\\GameOfLife\\GameOfLife\\simulation.hpp",
               "RelativeToolTip": "GameOfLife\\simulation.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-10-22T09:01:53.901Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
